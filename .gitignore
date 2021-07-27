@@ -1,0 +1,9 @@
+book/node_modules
+book/.env
+book/package-lock.json
+customer/node_modules
+customer/.env
+customer/package-lock.json
+order/node_modules
+order/.env
+order/package-lock.json
